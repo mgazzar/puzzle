@@ -1,4 +1,6 @@
 puzzle
 ======
 
-my first game 
+Thefirst game I made using Java.
+
+
