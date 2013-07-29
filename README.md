@@ -1,6 +1,6 @@
-puzzle
+Puzzle
 ======
 
-Thefirst game I made using Java.
+The first game I made using Java.
 
 
